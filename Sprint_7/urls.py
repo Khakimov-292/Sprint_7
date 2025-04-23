@@ -1,0 +1,6 @@
+class Urls:
+    URL_basic = 'https://qa-scooter.praktikum-services.ru/'
+    URL_create_courier = f'{URL_basic}api/v1/courier/'
+    URL_login_courier = f'{URL_basic}api/v1/courier/login'
+    URL_orders = f'{URL_basic}api/v1/orders'
+    URL_courier_delete = f'{URL_basic}/api/v1/courier'
